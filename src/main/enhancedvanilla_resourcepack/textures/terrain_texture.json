@@ -123,6 +123,126 @@
       "textures": [
         "textures/blocks/glowstone_ore"
       ]
+    },
+    "enhancedvanilla_rough_sandstone_up": {
+      "textures": [
+        "textures/blocks/rough_sandstone"
+      ]
+    },
+    "enhancedvanilla_rough_sandstone_down": {
+      "textures": [
+        "textures/blocks/rough_sandstone"
+      ]
+    },
+    "enhancedvanilla_rough_sandstone_south": {
+      "textures": [
+        "textures/blocks/rough_sandstone"
+      ]
+    },
+    "enhancedvanilla_rough_sandstone_north": {
+      "textures": [
+        "textures/blocks/rough_sandstone"
+      ]
+    },
+    "enhancedvanilla_rough_sandstone_west": {
+      "textures": [
+        "textures/blocks/rough_sandstone"
+      ]
+    },
+    "enhancedvanilla_rough_sandstone_east": {
+      "textures": [
+        "textures/blocks/rough_sandstone"
+      ]
+    },
+    "enhancedvanilla_rough_red_sandstone_up": {
+      "textures": [
+        "textures/blocks/rough_red_sandstone"
+      ]
+    },
+    "enhancedvanilla_rough_red_sandstone_down": {
+      "textures": [
+        "textures/blocks/rough_red_sandstone"
+      ]
+    },
+    "enhancedvanilla_rough_red_sandstone_south": {
+      "textures": [
+        "textures/blocks/rough_red_sandstone"
+      ]
+    },
+    "enhancedvanilla_rough_red_sandstone_north": {
+      "textures": [
+        "textures/blocks/rough_red_sandstone"
+      ]
+    },
+    "enhancedvanilla_rough_red_sandstone_west": {
+      "textures": [
+        "textures/blocks/rough_red_sandstone"
+      ]
+    },
+    "enhancedvanilla_rough_red_sandstone_east": {
+      "textures": [
+        "textures/blocks/rough_red_sandstone"
+      ]
+    },
+    "enhancedvanilla_soft_sandstone_up": {
+      "textures": [
+        "textures/blocks/soft_sandstone"
+      ]
+    },
+    "enhancedvanilla_soft_sandstone_down": {
+      "textures": [
+        "textures/blocks/soft_sandstone"
+      ]
+    },
+    "enhancedvanilla_soft_sandstone_south": {
+      "textures": [
+        "textures/blocks/soft_sandstone"
+      ]
+    },
+    "enhancedvanilla_soft_sandstone_north": {
+      "textures": [
+        "textures/blocks/soft_sandstone"
+      ]
+    },
+    "enhancedvanilla_soft_sandstone_west": {
+      "textures": [
+        "textures/blocks/soft_sandstone"
+      ]
+    },
+    "enhancedvanilla_soft_sandstone_east": {
+      "textures": [
+        "textures/blocks/soft_sandstone"
+      ]
+    },
+    "enhancedvanilla_soft_red_sandstone_up": {
+      "textures": [
+        "textures/blocks/soft_red_sandstone"
+      ]
+    },
+    "enhancedvanilla_soft_red_sandstone_down": {
+      "textures": [
+        "textures/blocks/soft_red_sandstone"
+      ]
+    },
+    "enhancedvanilla_soft_red_sandstone_south": {
+      "textures": [
+        "textures/blocks/soft_red_sandstone"
+      ]
+    },
+    "enhancedvanilla_soft_red_sandstone_north": {
+      "textures": [
+        "textures/blocks/soft_red_sandstone"
+      ]
+    },
+    "enhancedvanilla_soft_red_sandstone_west": {
+      "textures": [
+        "textures/blocks/soft_red_sandstone"
+      ]
+    },
+    "enhancedvanilla_soft_red_sandstone_east": {
+      "textures": [
+        "textures/blocks/soft_red_sandstone"
+      ]
     }
   }
 }

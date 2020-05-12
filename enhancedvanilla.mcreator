@@ -54,34 +54,97 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "glowstone_ore"
+    },
+    {
+      "name": "DeathCapMushroom",
+      "type": "food",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "death_cap_mushroom"
+    },
+    {
+      "name": "BerryPie",
+      "type": "food",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "berry_pie"
+    },
+    {
+      "name": "RoughSandstone",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rough_sandstone"
+    },
+    {
+      "name": "RoughRedSandstone",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rough_red_sandstone"
+    },
+    {
+      "name": "SoftSandstone",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soft_sandstone"
+    },
+    {
+      "name": "SoftRedSandstone",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soft_red_sandstone"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "tile.enhancedvanilla:glowstone_ore.name": "Glowstone Ore",
+      "item.enhancedvanilla:death_cap_mushroom.name": "Death Cap Mushroom",
+      "tile.enhancedvanilla:soft_sandstone.name": "Soft Sandstone",
       "tile.enhancedvanilla:sand_ripple.name": "Sand Ripples",
+      "item.enhancedvanilla:berry_pie.name": "Berry Pie",
+      "tile.enhancedvanilla:rough_sandstone.name": "Rough Sandstone",
+      "tile.enhancedvanilla:rough_red_sandstone.name": "Rough Red Sandstone",
+      "tile.enhancedvanilla:red_sand_ripple.name": "Red Sand Ripples",
+      "tile.enhancedvanilla:glowstone_ore.name": "Glowstone Ore",
+      "tile.enhancedvanilla:soft_red_sandstone.name": "Soft Red Sandstone",
       "item.enhancedvanilla:glowstone_shard.name": "Glowstone Shard",
       "tile.enhancedvanilla:thatch.name": "Thatch",
-      "tile.enhancedvanilla:red_sand_ripple.name": "Red Sand Ripples",
       "item.enhancedvanilla:dried_wheat.name": "Dried Wheat"
     }
   },
   "workspaceSettings": {
     "modid": "enhancedvanilla",
     "modName": "Enhanced Vanilla : Bedrock Edition",
-    "version": "1.0.0",
-    "author": "Marion, MCreator",
-    "websiteURL": "https://mcreator.net",
+    "version": "0.0.1",
+    "description": "Bringing Quality Features to Minecraft",
+    "author": "Karogath Modding Studios",
+    "websiteURL": "https://www.curseforge.com/minecraft/mc-mods/enhanced-vanilla",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
+    "modPicture": "ev_logo",
     "requiredMods": [],
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "addon-1.14.x",
-    "modElementsPackage": "net.mcreator.enhancedvanilla",
+    "credits": "Suggestions from r/minecraftsuggestions",
+    "modElementsPackage": "com.karogath.enhancedvanilla",
     "lockBaseModFiles": false
   },
   "mcreatorVersion": 202000318613

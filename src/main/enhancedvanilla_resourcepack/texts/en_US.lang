@@ -1,6 +1,12 @@
-tile.enhancedvanilla:glowstone_ore.name=Glowstone Ore
+item.enhancedvanilla:death_cap_mushroom.name=Death Cap Mushroom
+tile.enhancedvanilla:soft_sandstone.name=Soft Sandstone
 tile.enhancedvanilla:sand_ripple.name=Sand Ripples
+item.enhancedvanilla:berry_pie.name=Berry Pie
+tile.enhancedvanilla:rough_sandstone.name=Rough Sandstone
+tile.enhancedvanilla:rough_red_sandstone.name=Rough Red Sandstone
+tile.enhancedvanilla:red_sand_ripple.name=Red Sand Ripples
+tile.enhancedvanilla:glowstone_ore.name=Glowstone Ore
+tile.enhancedvanilla:soft_red_sandstone.name=Soft Red Sandstone
 item.enhancedvanilla:glowstone_shard.name=Glowstone Shard
 tile.enhancedvanilla:thatch.name=Thatch
-tile.enhancedvanilla:red_sand_ripple.name=Red Sand Ripples
 item.enhancedvanilla:dried_wheat.name=Dried Wheat

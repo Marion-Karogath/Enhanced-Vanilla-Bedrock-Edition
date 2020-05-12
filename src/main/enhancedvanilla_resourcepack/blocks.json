@@ -47,5 +47,49 @@
       "east": "enhancedvanilla_glowstone_ore_east"
     },
     "sound": "stone"
+  },
+  "enhancedvanilla:rough_sandstone": {
+    "textures": {
+      "up": "enhancedvanilla_rough_sandstone_up",
+      "down": "enhancedvanilla_rough_sandstone_down",
+      "south": "enhancedvanilla_rough_sandstone_south",
+      "north": "enhancedvanilla_rough_sandstone_north",
+      "west": "enhancedvanilla_rough_sandstone_west",
+      "east": "enhancedvanilla_rough_sandstone_east"
+    },
+    "sound": "stone"
+  },
+  "enhancedvanilla:rough_red_sandstone": {
+    "textures": {
+      "up": "enhancedvanilla_rough_red_sandstone_up",
+      "down": "enhancedvanilla_rough_red_sandstone_down",
+      "south": "enhancedvanilla_rough_red_sandstone_south",
+      "north": "enhancedvanilla_rough_red_sandstone_north",
+      "west": "enhancedvanilla_rough_red_sandstone_west",
+      "east": "enhancedvanilla_rough_red_sandstone_east"
+    },
+    "sound": "stone"
+  },
+  "enhancedvanilla:soft_sandstone": {
+    "textures": {
+      "up": "enhancedvanilla_soft_sandstone_up",
+      "down": "enhancedvanilla_soft_sandstone_down",
+      "south": "enhancedvanilla_soft_sandstone_south",
+      "north": "enhancedvanilla_soft_sandstone_north",
+      "west": "enhancedvanilla_soft_sandstone_west",
+      "east": "enhancedvanilla_soft_sandstone_east"
+    },
+    "sound": "stone"
+  },
+  "enhancedvanilla:soft_red_sandstone": {
+    "textures": {
+      "up": "enhancedvanilla_soft_red_sandstone_up",
+      "down": "enhancedvanilla_soft_red_sandstone_down",
+      "south": "enhancedvanilla_soft_red_sandstone_south",
+      "north": "enhancedvanilla_soft_red_sandstone_north",
+      "west": "enhancedvanilla_soft_red_sandstone_west",
+      "east": "enhancedvanilla_soft_red_sandstone_east"
+    },
+    "sound": "stone"
   }
 }

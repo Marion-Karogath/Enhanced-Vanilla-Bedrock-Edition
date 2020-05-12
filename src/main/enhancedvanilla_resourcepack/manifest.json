@@ -1,13 +1,13 @@
 {
   "format_version": 2,
   "header": {
-    "description": "",
+    "description": "Bringing Quality Features to Minecraft",
     "name": "Enhanced Vanilla : Bedrock Edition",
     "uuid": "9a90c08e-ab1d-3edf-8925-96c666115bb4",
     "version": [
-      1,
       0,
-      0
+      0,
+      1
     ],
     "min_engine_version": [
       1,
@@ -17,20 +17,20 @@
   },
   "modules": [
     {
-      "description": "",
+      "description": "Bringing Quality Features to Minecraft",
       "type": "resources",
       "uuid": "baa4d498-17b8-30bb-af7a-f66901c03499",
       "version": [
-        1,
         0,
-        0
+        0,
+        1
       ]
     }
   ],
   "metadata": {
     "authors": [
-      "Marion, MCreator"
+      "Karogath Modding Studios"
     ],
-    "url": "https://mcreator.net"
+    "url": "https://www.curseforge.com/minecraft/mc-mods/enhanced-vanilla"
   }
 }

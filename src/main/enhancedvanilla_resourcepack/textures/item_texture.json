@@ -2,11 +2,17 @@
   "resource_pack_name": "vanilla",
   "texture_name": "atlas.items",
   "texture_data": {
+    "death_cap_mushroom": {
+      "textures": "textures/items/death_cap_mushroom"
+    },
     "glowstone_shard": {
       "textures": "textures/items/glowstone_shard"
     },
     "dried_wheat": {
       "textures": "textures/items/dried_wheat"
+    },
+    "berry_pie": {
+      "textures": "textures/items/berry_pie"
     }
   }
 }
