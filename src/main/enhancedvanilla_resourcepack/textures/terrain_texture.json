@@ -63,6 +63,36 @@
       "textures": [
         "textures/blocks/red_sand_ripples"
       ]
+    },
+    "enhancedvanilla_thatch_up": {
+      "textures": [
+        "textures/blocks/thatch"
+      ]
+    },
+    "enhancedvanilla_thatch_down": {
+      "textures": [
+        "textures/blocks/thatch"
+      ]
+    },
+    "enhancedvanilla_thatch_south": {
+      "textures": [
+        "textures/blocks/thatch"
+      ]
+    },
+    "enhancedvanilla_thatch_north": {
+      "textures": [
+        "textures/blocks/thatch"
+      ]
+    },
+    "enhancedvanilla_thatch_west": {
+      "textures": [
+        "textures/blocks/thatch"
+      ]
+    },
+    "enhancedvanilla_thatch_east": {
+      "textures": [
+        "textures/blocks/thatch"
+      ]
     }
   }
 }

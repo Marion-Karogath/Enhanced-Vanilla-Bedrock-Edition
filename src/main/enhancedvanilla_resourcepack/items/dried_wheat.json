@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12",
+  "minecraft:item": {
+    "description": {
+      "identifier": "enhancedvanilla:dried_wheat",
+      "category": "Items",
+      "register_to_creative_menu": true
+    },
+    "components": {
+      "minecraft:icon": "dried_wheat",
+      "minecraft:render_offsets": "apple"
+    }
+  }
+}

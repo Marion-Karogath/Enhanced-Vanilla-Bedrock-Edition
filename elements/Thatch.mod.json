@@ -2,12 +2,12 @@
   "_fv": 7,
   "_type": "block",
   "definition": {
-    "texture": "red_sand_ripples",
-    "textureTop": "red_sand_ripples",
-    "textureLeft": "red_sand_ripples",
-    "textureFront": "red_sand_ripples",
-    "textureRight": "red_sand_ripples",
-    "textureBack": "red_sand_ripples",
+    "texture": "thatch",
+    "textureTop": "thatch",
+    "textureLeft": "thatch",
+    "textureFront": "thatch",
+    "textureRight": "thatch",
+    "textureBack": "thatch",
     "renderType": 10,
     "customModelName": "Normal",
     "rotationMode": 0,
@@ -20,7 +20,7 @@
     "Mx": 1.0,
     "My": 1.0,
     "Mz": 1.0,
-    "name": "Red Sand Ripples",
+    "name": "Thatch",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
@@ -44,7 +44,7 @@
     "tickRate": 10,
     "tickRandomly": false,
     "isReplaceable": false,
-    "colorOnMap": "SAND",
+    "colorOnMap": "DEFAULT",
     "creativePickItem": {
       "value": ""
     },
@@ -55,7 +55,7 @@
     "reactionToPushing": "NORMAL",
     "isNotColidable": false,
     "soundOnStep": {
-      "value": "SAND"
+      "value": "PLANT"
     },
     "luminance": 0.0,
     "unbreakable": false,
@@ -79,9 +79,9 @@
     "spawnWorldTypes": [],
     "restrictionBiomes": [],
     "blocksToReplace": [],
-    "frequencyPerChunks": 32,
-    "frequencyOnChunk": 32,
+    "frequencyPerChunks": 10,
+    "frequencyOnChunk": 16,
     "minGenerateHeight": 0,
-    "maxGenerateHeight": 128
+    "maxGenerateHeight": 64
   }
 }

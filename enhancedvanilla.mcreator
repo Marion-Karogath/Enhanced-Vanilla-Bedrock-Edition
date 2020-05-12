@@ -18,6 +18,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "red_sand_ripple"
+    },
+    {
+      "name": "DriedWheat",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dried_wheat"
+    },
+    {
+      "name": "Thatch",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thatch"
     }
   ],
   "variable_elements": [],
@@ -25,7 +43,9 @@
   "language_map": {
     "en_us": {
       "tile.enhancedvanilla:sand_ripple.name": "Sand Ripples",
-      "tile.enhancedvanilla:red_sand_ripple.name": "Red Sand Ripples"
+      "tile.enhancedvanilla:thatch.name": "Thatch",
+      "tile.enhancedvanilla:red_sand_ripple.name": "Red Sand Ripples",
+      "item.enhancedvanilla:dried_wheat.name": "Dried Wheat"
     }
   },
   "workspaceSettings": {

@@ -25,5 +25,16 @@
       "east": "enhancedvanilla_red_sand_ripple_east"
     },
     "sound": "sand"
+  },
+  "enhancedvanilla:thatch": {
+    "textures": {
+      "up": "enhancedvanilla_thatch_up",
+      "down": "enhancedvanilla_thatch_down",
+      "south": "enhancedvanilla_thatch_south",
+      "north": "enhancedvanilla_thatch_north",
+      "west": "enhancedvanilla_thatch_west",
+      "east": "enhancedvanilla_thatch_east"
+    },
+    "sound": "stone"
   }
 }
