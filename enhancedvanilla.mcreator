@@ -1,0 +1,48 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "SandRipple",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sand_ripple"
+    },
+    {
+      "name": "RedSandRipple",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_sand_ripple"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "tile.enhancedvanilla:sand_ripple.name": "Sand Ripples",
+      "tile.enhancedvanilla:red_sand_ripple.name": "Red Sand Ripples"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "enhancedvanilla",
+    "modName": "Enhanced Vanilla : Bedrock Edition",
+    "version": "1.0.0",
+    "author": "Marion, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "addon-1.14.x",
+    "modElementsPackage": "net.mcreator.enhancedvanilla",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000318613
+}

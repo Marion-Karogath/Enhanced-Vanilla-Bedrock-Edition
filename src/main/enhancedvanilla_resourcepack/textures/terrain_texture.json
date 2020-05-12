@@ -1,0 +1,68 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 0,
+  "texture_data": {
+    "enhancedvanilla_sand_ripple_up": {
+      "textures": [
+        "textures/blocks/sand_ripples"
+      ]
+    },
+    "enhancedvanilla_sand_ripple_down": {
+      "textures": [
+        "textures/blocks/sand_ripples"
+      ]
+    },
+    "enhancedvanilla_sand_ripple_south": {
+      "textures": [
+        "textures/blocks/sand_ripples"
+      ]
+    },
+    "enhancedvanilla_sand_ripple_north": {
+      "textures": [
+        "textures/blocks/sand_ripples"
+      ]
+    },
+    "enhancedvanilla_sand_ripple_west": {
+      "textures": [
+        "textures/blocks/sand_ripples"
+      ]
+    },
+    "enhancedvanilla_sand_ripple_east": {
+      "textures": [
+        "textures/blocks/sand_ripples"
+      ]
+    },
+    "enhancedvanilla_red_sand_ripple_up": {
+      "textures": [
+        "textures/blocks/red_sand_ripples"
+      ]
+    },
+    "enhancedvanilla_red_sand_ripple_down": {
+      "textures": [
+        "textures/blocks/red_sand_ripples"
+      ]
+    },
+    "enhancedvanilla_red_sand_ripple_south": {
+      "textures": [
+        "textures/blocks/red_sand_ripples"
+      ]
+    },
+    "enhancedvanilla_red_sand_ripple_north": {
+      "textures": [
+        "textures/blocks/red_sand_ripples"
+      ]
+    },
+    "enhancedvanilla_red_sand_ripple_west": {
+      "textures": [
+        "textures/blocks/red_sand_ripples"
+      ]
+    },
+    "enhancedvanilla_red_sand_ripple_east": {
+      "textures": [
+        "textures/blocks/red_sand_ripples"
+      ]
+    }
+  }
+}

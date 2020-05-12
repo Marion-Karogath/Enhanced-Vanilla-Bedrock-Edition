@@ -1,0 +1,29 @@
+{
+  "format_version": [
+    1,
+    1,
+    0
+  ],
+  "enhancedvanilla:sand_ripple": {
+    "textures": {
+      "up": "enhancedvanilla_sand_ripple_up",
+      "down": "enhancedvanilla_sand_ripple_down",
+      "south": "enhancedvanilla_sand_ripple_south",
+      "north": "enhancedvanilla_sand_ripple_north",
+      "west": "enhancedvanilla_sand_ripple_west",
+      "east": "enhancedvanilla_sand_ripple_east"
+    },
+    "sound": "sand"
+  },
+  "enhancedvanilla:red_sand_ripple": {
+    "textures": {
+      "up": "enhancedvanilla_red_sand_ripple_up",
+      "down": "enhancedvanilla_red_sand_ripple_down",
+      "south": "enhancedvanilla_red_sand_ripple_south",
+      "north": "enhancedvanilla_red_sand_ripple_north",
+      "west": "enhancedvanilla_red_sand_ripple_west",
+      "east": "enhancedvanilla_red_sand_ripple_east"
+    },
+    "sound": "sand"
+  }
+}

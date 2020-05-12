@@ -1,0 +1,13 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:ore_feature": {
+    "description": {
+      "identifier": "enhancedvanilla_red_sand_ripple_ore_feature"
+    },
+    "count": 32,
+    "places_block": "enhancedvanilla:red_sand_ripple",
+    "may_replace": [
+      "minecraft:sand"
+    ]
+  }
+}

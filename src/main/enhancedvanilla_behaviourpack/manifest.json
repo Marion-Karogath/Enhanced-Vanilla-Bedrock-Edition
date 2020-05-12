@@ -1,0 +1,46 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "",
+    "name": "Enhanced Vanilla : Bedrock Edition",
+    "uuid": "2d7933ce-58f5-367c-80c9-c4f96293a8fa",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      14,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "data",
+      "uuid": "28feaab8-3177-3b46-a1fe-2d50481d6872",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "9a90c08e-ab1d-3edf-8925-96c666115bb4",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Marion, MCreator"
+    ],
+    "url": "https://mcreator.net"
+  }
+}
