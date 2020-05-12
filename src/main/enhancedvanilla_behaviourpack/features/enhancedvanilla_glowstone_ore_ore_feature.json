@@ -1,0 +1,13 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:ore_feature": {
+    "description": {
+      "identifier": "enhancedvanilla_glowstone_ore_ore_feature"
+    },
+    "count": 16,
+    "places_block": "enhancedvanilla:glowstone_ore",
+    "may_replace": [
+      "minecraft:netherrack"
+    ]
+  }
+}

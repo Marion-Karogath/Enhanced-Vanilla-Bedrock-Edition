@@ -93,6 +93,36 @@
       "textures": [
         "textures/blocks/thatch"
       ]
+    },
+    "enhancedvanilla_glowstone_ore_up": {
+      "textures": [
+        "textures/blocks/glowstone_ore"
+      ]
+    },
+    "enhancedvanilla_glowstone_ore_down": {
+      "textures": [
+        "textures/blocks/glowstone_ore"
+      ]
+    },
+    "enhancedvanilla_glowstone_ore_south": {
+      "textures": [
+        "textures/blocks/glowstone_ore"
+      ]
+    },
+    "enhancedvanilla_glowstone_ore_north": {
+      "textures": [
+        "textures/blocks/glowstone_ore"
+      ]
+    },
+    "enhancedvanilla_glowstone_ore_west": {
+      "textures": [
+        "textures/blocks/glowstone_ore"
+      ]
+    },
+    "enhancedvanilla_glowstone_ore_east": {
+      "textures": [
+        "textures/blocks/glowstone_ore"
+      ]
     }
   }
 }

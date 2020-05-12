@@ -36,5 +36,16 @@
       "east": "enhancedvanilla_thatch_east"
     },
     "sound": "stone"
+  },
+  "enhancedvanilla:glowstone_ore": {
+    "textures": {
+      "up": "enhancedvanilla_glowstone_ore_up",
+      "down": "enhancedvanilla_glowstone_ore_down",
+      "south": "enhancedvanilla_glowstone_ore_south",
+      "north": "enhancedvanilla_glowstone_ore_north",
+      "west": "enhancedvanilla_glowstone_ore_west",
+      "east": "enhancedvanilla_glowstone_ore_east"
+    },
+    "sound": "stone"
   }
 }

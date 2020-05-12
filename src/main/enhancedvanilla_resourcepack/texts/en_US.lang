@@ -1,4 +1,6 @@
+tile.enhancedvanilla:glowstone_ore.name=Glowstone Ore
 tile.enhancedvanilla:sand_ripple.name=Sand Ripples
+item.enhancedvanilla:glowstone_shard.name=Glowstone Shard
 tile.enhancedvanilla:thatch.name=Thatch
 tile.enhancedvanilla:red_sand_ripple.name=Red Sand Ripples
 item.enhancedvanilla:dried_wheat.name=Dried Wheat
